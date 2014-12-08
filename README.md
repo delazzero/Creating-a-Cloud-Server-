@@ -1,8 +1,6 @@
 Creating-a-Cloud-Server-
 ========================
 
-Creating a Cloud Server 
-
 Creating a Cloud Server through Amazon Web Services Elastic Compute Cloud (EC2) 
 
 Amazon Web Services Elastic Compute Cloud (Amazon EC2) is “a web service that provides resizable compute capacity in the cloud.” It is a small cloud server that can expand as traffic increases. 
