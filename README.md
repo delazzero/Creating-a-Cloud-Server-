@@ -8,11 +8,11 @@ Amazon Web Services Elastic Compute Cloud (Amazon EC2) is “a web service that 
 This tutorial provides instructions for initial set up of the cloud server. 
 
 Steps:
-1.	Go to Amazon Web Services
-2.	Sign up
+1.	Go to Amazon Web Services;
+2.	Sign up; and 
 3.	See list of web services; choose “EC2 Dashboard.” Important elements of dashboard:
 
-a.	In the upper right corner of screen, see provision services by regions (e.g., U.S. Northeast). This is important because it indicates the location of your information packet, which has to physically travel. Choose local because when services are close, this improves performance and reduces unnecessary labor.
+a. In the upper right corner of screen, see provision services by regions (e.g., U.S. Northeast). This is important because it indicates the location of your information packet, which has to physically travel. Choose local because when services are close, this improves performance and reduces unnecessary labor.
 b.	Limits are important (pricing, bandwidth)
 c.	AWS offers different types of instances.
 
